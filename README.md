@@ -1,3 +1,14 @@
+## 📁 Archive Notice
+
+**This repository has been archived and is no longer actively maintained.**
+
+For the latest Pipecat Cloud documentation, examples, and getting started guides, please visit:
+- [Pipecat Documentation](https://docs.pipecat.ai/deployment/pipecat-cloud/introduction)
+- [Quickstart](https://github.com/pipecat-ai/pipecat-quickstart)
+
+---
+
+
 # Pipecat Cloud Starter Project
 
 [![Docs](https://img.shields.io/badge/Documentation-blue)](https://docs.pipecat.daily.co) [![Discord](https://img.shields.io/discord/1217145424381743145)](https://discord.gg/dailyco)
